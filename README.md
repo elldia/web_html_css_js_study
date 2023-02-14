@@ -5,5 +5,7 @@
 <p>H1~H3은 검색키워드로 활용가능하다. H4~H6 꼭필요한 경우만 이용하거나 권장안함</p>
 <p>block과 inline태그는 의미에 맞게 외부/내부 구조로 구성해서 사용해야 한다.(의미 중첩되지 않도록)</p>
 <hr>
-<h2>23.02.14 - HTML - 문서태그</h2>
-<p>em, strong, blockquote, q, address, code, hr, del, s, sub, sup</p>
+<h2>23.02.14 - HTML - 문서태그+내비게이션 개념</h2>
+<p><em>em</em>, <strong>strong</strong>, blockquote, q, address, code, hr, del, s, sub, sup</p>
+<p><em>gnb, lnb, snb, fnb, Breadcrumbs</em></p>
+<blockquote cite="https://webty.tistory.com/85">유나쌤 블로그 참고 - https://webty.tistory.com/85</blockquote>
