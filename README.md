@@ -9,3 +9,9 @@
 <p><em>em</em>, <strong>strong</strong>, blockquote, q, address, code, hr, del, s, sub, sup</p>
 <p><em>gnb, lnb, snb, fnb, Breadcrumbs</em></p>
 <blockquote cite="https://webty.tistory.com/85">유나쌤 블로그 참고 - https://webty.tistory.com/85</blockquote>
+<h2>23.02.15 - HTML - 문단태그</h2>
+<ul>
+  <li>ul,ol,li 순서있는 목록 없는 목록 구분 확실히 해야함.</li>
+  <li>li의 <em>형제태그</em>는 li만 올 수 있으니 나머지 태그는 그 자식, 자손태그에 삽입해야한다.</li>
+  <li>......</li>
+</ul>
