@@ -23,13 +23,13 @@
 </div>
 <h2>23.02.20-Table</h2>
 <table>
-<thead>
-<tr>
-<th>구분</th>
-<th>태그명</th>
-<th>의미</th>
-</tr>
-</thead>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>태그명</th>
+      <th>의미</th>
+    </tr>
+  </thead>
 <tbody>
 <tr>
 <td rowspan="3">block</td>
