@@ -33,15 +33,15 @@
 <tbody>
 <tr>
 <td rowspan="3">block</td>
-<td>tr</td>
+<td>&lt;tr&gt;</td>
 <td>가로행 태그</td>
 </tr>
 <tr>
-<td>td</td>
+<td>&lt;td&gt;</td>
 <td>내용(열)태그</td>
 </tr>
 <tr>
-<td>th</td>
+<td>&lt;th&gt;</td>
 <td>제목(열)태그</td>
 </tbody>
 </table>
