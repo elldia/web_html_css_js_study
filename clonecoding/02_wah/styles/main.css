@@ -1,0 +1,22 @@
+main {
+    background-color:yellow;
+    width:850px;
+    margin:0 auto;
+}
+main .top {background-color:aqua;}
+main .top h1 {}
+main .top dl {}
+main .top dl dd {}
+main .top dl dd span {}
+main .top dl dd em {}
+main section {
+    background-color:beige;
+    /* 배경이미지 속성 */
+    background-image:url(../images/bg.png);
+    background-size:50%;/*w h*/
+    background-repeat:no-repeat;/*기본repeat*/
+    background-position:right -100px;/*x y*/
+}
+main section h2 {}
+main section p {}
+main section p em {}
