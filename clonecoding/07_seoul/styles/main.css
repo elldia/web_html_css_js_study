@@ -127,3 +127,37 @@ main .bnr_wrap_bg .bnr_wrap {
 }
 main .bnr_wrap_bg .bnr_wrap a {width:33.33%; display:inline-block;}
 main .bnr_wrap_bg .bnr_wrap a img {width:100%;}
+/* --------------main 이벤트신청,축제,서비스 */
+main .board_wrap {
+    width:1152px; margin:30px auto 0; 
+    background:aqua;
+    display:flex; flex-flow:row nowrap; justify-content: space-between;
+}
+main .board_wrap > * {width:32%;}
+main .board_wrap .event {background:yellow;}
+main .board_wrap .festival {background:pink;}
+main .board_wrap .service {background:beige;}
+main .board_wrap > div .title {
+    padding:15px 0; margin:0 0 15px; border-bottom:1px solid #000;
+    display:flex; flex-flow:row nowrap; justify-content:space-between;
+}
+main .board_wrap > div .title h1 {}
+main .board_wrap > div .title .more {}
+main .board_wrap > div .contents {display:flex; flex-flow:column nowrap;}
+main .board_wrap > div .contents a {padding:7px 0;}
+main .board_wrap > div .contents a span {}
+main .board_wrap > div .contents a .administartion {color:#028ab6;}
+main .board_wrap > div .contents a .environment {color:#599100;}
+main .board_wrap > div .contents a .welfare {color:#d76000;}
+main .board_wrap > div .contents a .housing {color:#c35c3c;}
+main .board_wrap > div .contents a .culture {color:#9b64d3;}
+main .board_wrap > div .contents a .economy {color:#069363;}
+main .board_wrap > div .contents a span:first-child {margin-right:10px;}
+main .board_wrap > div .contents a span:last-child {
+    width:85%; background:white; display:inline-block;
+    white-space:nowrap; text-overflow:ellipsis; overflow:hidden;
+}
+main .board_wrap > .service .title {border:0;}
+main .board_wrap > .service .contents {
+    background:#eff4f8; display:flex; flex-flow:row wrap;}
+main .board_wrap > .service .contents a {width:50%;}
